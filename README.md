@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitPhatangare23
-- 👀 I’m interested in Full Stack Web Devlopment 
+- 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me ...
