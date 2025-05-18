@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E Commerce Full Stack Website**
+- 🔭 I’m currently working on **LMS Full Stack Website**
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React,Python**
+- 💬 Ask me about **HTML,CSS,Reaact,Nodejs,SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
